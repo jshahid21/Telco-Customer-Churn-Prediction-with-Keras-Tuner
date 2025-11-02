@@ -46,7 +46,7 @@ Here's a breakdown of the steps we followed:
 *   Neural networks are powerful models for classification tasks.
 *   Hyperparameter tuning can significantly improve the performance of a neural network by finding the best configuration for the model.
 
-The best model we found achieved an accuracy of approximately {{accuracy}} on the test data. This means that the model can correctly predict whether a customer will churn about {{accuracy*100:.2f}}% of the time on unseen data.
+The best model we found achieved an accuracy of approximately 0.7981520891189575 on the test data. This means that the model can correctly predict whether a customer will churn about 79.82% of the time on unseen data.
 
 ## Ways to Improve
 
